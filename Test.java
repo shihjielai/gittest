@@ -14,9 +14,6 @@ public class Test {
 		String s1 = "java";
 		StringBuilder s2 = new StringBuilder("java");
 		
-		System.out.println("開始測試1");
-		System.out.println("開始測試2");
-		
 		if (s1 == s2)
 			System.out.println("1");
 		if (s1.equals(s2))
