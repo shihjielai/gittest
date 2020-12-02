@@ -16,7 +16,6 @@ public class Test {
 		
 		System.out.println("開始測試1");
 		System.out.println("開始測試2");
-		System.out.println("開始測試3");
 		
 		if (s1 == s2)
 			System.out.println("1");
