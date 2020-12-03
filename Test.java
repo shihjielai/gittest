@@ -13,7 +13,10 @@ public class Test {
 
 		String s1 = "java";
 		StringBuilder s2 = new StringBuilder("java");
+
 		private int number;
+		private String night;
+		private String attach;
 		
 		if (s1 == s2)
 			System.out.println("1");
