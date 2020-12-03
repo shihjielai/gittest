@@ -11,6 +11,9 @@ public class Test {
 
 	public static void main(String[] args) {
 
+		private String nickName;
+		private String testCheckOut;
+		
 		String s1 = "java";
 		StringBuilder s2 = new StringBuilder("java");
 		
